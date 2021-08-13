@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Lessons4\DZ1\bin\Debug\net5.0\DZ1.exe
+C:\Users\user\source\repos\Lessons4\DZ1\bin\Debug\net5.0\DZ1.deps.json
+C:\Users\user\source\repos\Lessons4\DZ1\bin\Debug\net5.0\DZ1.runtimeconfig.json
+C:\Users\user\source\repos\Lessons4\DZ1\bin\Debug\net5.0\DZ1.runtimeconfig.dev.json
+C:\Users\user\source\repos\Lessons4\DZ1\bin\Debug\net5.0\DZ1.dll
+C:\Users\user\source\repos\Lessons4\DZ1\bin\Debug\net5.0\ref\DZ1.dll
+C:\Users\user\source\repos\Lessons4\DZ1\bin\Debug\net5.0\DZ1.pdb
+C:\Users\user\source\repos\Lessons4\DZ1\obj\Debug\net5.0\DZ1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Lessons4\DZ1\obj\Debug\net5.0\DZ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Lessons4\DZ1\obj\Debug\net5.0\DZ1.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Lessons4\DZ1\obj\Debug\net5.0\DZ1.AssemblyInfo.cs
+C:\Users\user\source\repos\Lessons4\DZ1\obj\Debug\net5.0\DZ1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lessons4\DZ1\obj\Debug\net5.0\DZ1.dll
+C:\Users\user\source\repos\Lessons4\DZ1\obj\Debug\net5.0\ref\DZ1.dll
+C:\Users\user\source\repos\Lessons4\DZ1\obj\Debug\net5.0\DZ1.pdb
+C:\Users\user\source\repos\Lessons4\DZ1\obj\Debug\net5.0\DZ1.genruntimeconfig.cache
